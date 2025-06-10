@@ -8,7 +8,7 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 ## 🚀 Projelerim
 
 ###  [ 🌐 Basit ödev için yaptığım wew sitesi] 
-[🌐 Buraya tıklayıp inceleyebilirsin! <3][(http://bilgisayarparcasisatan.somee.com/)]
+[🌐 Buraya tıklayıp inceleyebilirsin! <3](http://bilgisayarparcasisatan.somee.com/)
 
 ### 
 
