@@ -34,8 +34,7 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
+## 📈 Kodlama Performansım
 
 ![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda0&show_icons=true&theme=radical)
 
