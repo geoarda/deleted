@@ -10,6 +10,20 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 ###  [ 🌐 Basit ödev için yaptığım web sitesi] 
 [🌐 Buraya tıklayıp inceleyebilirsin! <3](http://bilgisayarparcasisatan.somee.com/)
 
+## TaskMaster - Yapılacaklar Listesi
+<details>
+<summary>Demo ve Detayları Görmek İçin Tıklayın</summary>
+- Basit, modern ve kullanışlı yapılacaklar listesi uygulaması.  
+- Karanlık mod, localStorage destekli.  
+
+[Canlı Demo](https://geoarda.github.io/TaskMaster/)
+
+[TaskMaster GitHub Repo](https://github.com/geoarda/TaskMaster)
+
+</details>
+
+
+
 ---
 
 ## 💻 Teknolojiler & Diller
