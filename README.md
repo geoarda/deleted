@@ -7,18 +7,24 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 
 ## 🚀 Projelerim
 
-###  [ 🌐 Basit ödev için yaptığım web sitesi] 
-[🌐 Buraya tıklayıp inceleyebilirsin! <3](http://bilgisayarparcasisatan.somee.com/)
+### 🌐 CodeCalcPro – Basit ödev için yaptığım web sitesi  
+📌 [👉 Canlı Demosunu Görmek için Tıkla](http://bilgisayarparcasisatan.somee.com/)  
+📝 HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir hesap makinesi uygulaması.
 
-## TaskMaster - Yapılacaklar Listesi
+---
+
+## ✅ TaskMaster - Yapılacaklar Listesi
 <details>
-<summary>Demo ve Detayları Görmek İçin Tıklayın</summary>
-- Basit, modern ve kullanışlı yapılacaklar listesi uygulaması.  
-- Karanlık mod, localStorage destekli.  
+<summary>🔍 Demo ve Detayları Görmek İçin Tıklayın</summary>
 
-[Canlı Demo](https://geoarda.github.io/TaskMaster/)
+- Basit, modern ve kullanışlı yapılacaklar listesi uygulaması  
+- Karanlık mod desteği  
+- Görevleri tarayıcıda saklayan `localStorage` entegrasyonu  
 
-[TaskMaster GitHub Repo](https://github.com/geoarda/TaskMaster)
+🔗 [Canlı Demo](https://geoarda.github.io/TaskMaster/)  
+📁 [GitHub Repo](https://github.com/geoarda/TaskMaster)  
+</details>
+
 
 </details>
 
