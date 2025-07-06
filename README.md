@@ -22,10 +22,10 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 
 ---
 
-### 🧮 CodeCalcPro – Hesap Makinesi Uygulaması  
+🧮 CodeCalcPro – Hesap Makinesi Uygulaması  
 📝 HTML, CSS ve JavaScript kullanılarak hazırlanmış basit bir hesap makinesi uygulamasıdır.  
-📁 [GitHub Repo](https://github.com/geoarda/CodeCalcPro)
-
+📁 [GitHub Repo](https://github.com/geoarda/CodeCalcPro)  
+🌐 [Canlı Demo](https://geoarda.github.io/CodeCalcPro/)
 ---
 
 ### 🌐 Bilgisayar Parçası Satış Sitesi (Ödev)  
