@@ -7,13 +7,7 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 
 ## 🚀 Projelerim
 
-### 🌐 CodeCalcPro – Basit ödev için yaptığım web sitesi  
-📌 [👉 Canlı Demosunu Görmek için Tıkla](http://bilgisayarparcasisatan.somee.com/)  
-📝 HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir hesap makinesi uygulaması.
-
----
-
-## ✅ TaskMaster - Yapılacaklar Listesi
+### ✅ TaskMaster – Yapılacaklar Listesi  
 <details>
 <summary>🔍 Demo ve Detayları Görmek İçin Tıklayın</summary>
 
@@ -21,8 +15,23 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 - Karanlık mod desteği  
 - Görevleri tarayıcıda saklayan `localStorage` entegrasyonu  
 
-🔗 [Canlı Demo](https://geoarda.github.io/TaskMaster/)  
-📁 [GitHub Repo](https://github.com/geoarda/TaskMaster)  
+📌 [Canlı Demo](https://geoarda.github.io/TaskMaster/)  
+📁 [GitHub Repo](https://github.com/geoarda/TaskMaster)
+
+</details>
+
+---
+
+### 🧮 CodeCalcPro – Hesap Makinesi Uygulaması  
+📝 HTML, CSS ve JavaScript kullanılarak hazırlanmış basit bir hesap makinesi uygulamasıdır.  
+📁 [GitHub Repo](https://github.com/geoarda/CodeCalcPro)
+
+---
+
+### 🌐 Bilgisayar Parçası Satış Sitesi (Ödev)  
+📌 [👉 Canlı Demo için Tıklayın](http://bilgisayarparcasisatan.somee.com/)  
+📝 Okul projesi olarak geliştirilmiş basit bir bilgisayar parçası satış sitesi.
+  
 </details>
 
 
@@ -45,7 +54,6 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
