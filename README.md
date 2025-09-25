@@ -1,43 +1,56 @@
 # Merhaba, ben Arda! 👋
 
 17 yaşında genç bir yazılımcıyım. Oyun modlama ve web geliştirme alanlarında çalışıyorum.  
-Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve daha fazlası.
+Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++, C, Ruby, Go, Rust, Kotlin, TypeScript ve daha fazlası.
+
+✨ Hedefim: Kod yazarak dünyayı daha yaratıcı hâle getirmek!  
 
 ---
 
 ## 🚀 Projelerim
 
-### ✅ TaskMaster – Yapılacaklar Listesi  
+### ✅ TaskMaster – Yapılacaklar Listesi
 <details>
 <summary>🔍 Demo ve Detayları Görmek İçin Tıklayın</summary>
 
-- Basit, modern ve kullanışlı yapılacaklar listesi uygulaması  
-- Karanlık mod desteği  
+- Basit, modern ve kullanışlı yapılacaklar listesi  
+- Karanlık mod desteği 🌙  
 - Görevleri tarayıcıda saklayan `localStorage` entegrasyonu  
+- [Canlı Demo](https://geoarda.github.io/TaskMaster/)  
+- [GitHub Repo](https://github.com/geoarda/TaskMaster)
 
-📌 [Canlı Demo](https://geoarda.github.io/TaskMaster/)  
-📁 [GitHub Repo](https://github.com/geoarda/TaskMaster)
+![TaskMaster GIF](https://media.giphy.com/media/3ohc0Vr7gq5Qf8x7cY/giphy.gif)
 
 </details>
 
 ---
 
-🧮 CodeCalcPro – Hesap Makinesi Uygulaması  
-📝 HTML, CSS ve JavaScript kullanılarak hazırlanmış basit bir hesap makinesi uygulamasıdır.  
-📁 [GitHub Repo](https://github.com/geoarda/CodeCalcPro)  
-🌐 [CANLI DEMO]https://geoarda.github.io/CodeCalcPro/
+### 🧮 CodeCalcPro – Hesap Makinesi
+<details>
+<summary>🔍 Detayları Görmek İçin Tıklayın</summary>
+
+- HTML, CSS ve JavaScript ile geliştirilmiş modern hesap makinesi  
+- Renk temaları ve basit arayüz  
+- [Canlı Demo](https://geoarda.github.io/CodeCalcPro/)  
+- [GitHub Repo](https://github.com/geoarda/CodeCalcPro)
+
+![CodeCalcPro GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+</details>
+
 ---
 
-### 🌐 Bilgisayar Parçası Satış Sitesi (Ödev)  
-📌 [👉 Canlı Demo için Tıklayın](http://bilgisayarparcasisatan.somee.com/)  
-📝 Okul projesi olarak geliştirilmiş basit bir bilgisayar parçası satış sitesi.
-  
+### 🌐 Bilgisayar Parçası Satış Sitesi (Ödev)
+<details>
+<summary>🔍 Detayları Görmek İçin Tıklayın</summary>
+
+- Okul projesi olarak geliştirilmiş bilgisayar parçası satış sitesi  
+- Basit, kullanışlı ve öğrenmeye yönelik  
+- [Canlı Demo](http://bilgisayarparcasisatan.somee.com/)  
+
+![PC Shop GIF](https://media.giphy.com/media/26xBuwvrzP0FZxC6A/giphy.gif)
+
 </details>
-
-
-</details>
-
-
 
 ---
 
@@ -64,18 +77,16 @@ Başlıca kullandığım diller: Lua, PHP, JavaScript, Python, Java, C#, C++ ve 
 
 ## 📈 Kodlama Performansım
 
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda0&show_icons=true&theme=radical)
-
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda0&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda0&layout=compact&theme=radical)
 
 ---
 
 ## 📫 İletişim
 
-- [LinkedIn](Soon)  
-- [Twitter](Soon!)  
-- Discord: Geoofy
+- [LinkedIn](https://www.linkedin.com/in/arda-a-020bb5380/)  
+- Discord: MoodyALostor  
 
 ---
 
-*Turn code into creativity, one project at a time.*
+*Turn code into creativity, one project at a time.* 🚀  
